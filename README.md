@@ -6,6 +6,7 @@ Amazing Prime would like to automate a pipeline which takes in data from 3 sourc
 
 ### Table: movies
 The table has # columns and # rows
+![movies](movies_query.png)
 
 ### Table: ratings
 The table has # columns and # rows
