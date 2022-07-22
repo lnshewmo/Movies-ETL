@@ -10,3 +10,4 @@ The table has 22 columns and 6052 rows
 
 ### Table: ratings
 The table has # columns and # rows
+![movies](https://github.com/lnshewmo/Movies-ETL/blob/main/ratings%20query.png)
