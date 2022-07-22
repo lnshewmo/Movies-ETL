@@ -2,7 +2,7 @@
 
 ## Overview
 
-Amazing Prime would like to automate a pipeline which takes in data from 3 sources (Wikipedia, Kaggle and MovieLens) and performs an extract, transform, load process to a PostgreSQL database.  Existing Hackathon code was refactored using Python in a Jupyter Notebook to create one function to perform this operation.  The outputs are 2 tables in a movie_data database titled:  movies and ratings.
+Amazing Prime would like to automate a pipeline which takes in movie data from 3 sources (Wikipedia, Kaggle and MovieLens) and performs an extract, transform, load process to a PostgreSQL database.  Existing code from a Hackathon was refactored using Python in a Jupyter Notebook to create one function to perform this operation.  The outputs are 2 tables in a movie_data database titled:  movies and ratings.
 
 ### Table: movies
 The table has 22 columns and 6052 rows
