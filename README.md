@@ -9,5 +9,5 @@ The table has 22 columns and 6052 rows
 ![movies](https://github.com/lnshewmo/Movies-ETL/blob/main/movies%20query.png)
 
 ### Table: ratings
-The table has # columns and # rows
-![movies](https://github.com/lnshewmo/Movies-ETL/blob/main/ratings%20query.png)
+The table has 5 columns and 24289 rows
+![ratings](https://github.com/lnshewmo/Movies-ETL/blob/main/ratings%20query.png)
