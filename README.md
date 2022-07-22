@@ -6,8 +6,8 @@ Amazing Prime would like to automate a pipeline which takes in data from 3 sourc
 
 ### Table: movies
 The table has 22 columns and 6052 rows
-![movies](https://github.com/lnshewmo/Movies-ETL/blob/main/movies%20query.png)
+![movies](https://github.com/lnshewmo/Movies-ETL/blob/main/Resources/movies_query.png)
 
 ### Table: ratings
-The table has 5 columns and 24289 rows
-![ratings](https://github.com/lnshewmo/Movies-ETL/blob/main/ratings%20query.png)
+The table has 5 columns and 26024289 rows
+![ratings](https://github.com/lnshewmo/Movies-ETL/blob/main/Resources/ratings_query.png)
